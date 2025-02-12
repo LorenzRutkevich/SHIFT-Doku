@@ -23,9 +23,9 @@ Lernen Sie, wie SHIFT durch interaktive Mensch-Maschine-Interaktion und innovati
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
   {{< card
-        link="/showcase/uncertainty"
-        title="Informationen zur Unsicherheit"
-        image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Uncertainty_cover.png"
+        link="/showcase/netzwerkvergleich"
+        title="Vergleich von Netzwerken"
+        image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Network_comp_cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 {{< /cards >}}
