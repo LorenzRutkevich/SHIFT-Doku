@@ -46,11 +46,9 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
-  logo:
-        path: logos/logo_shift_no_text.png
-        dark: logos/logo_shift_no_text.png
-        width: 40
-        height: 20
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
 
   footer:
     displayCopyright: false
