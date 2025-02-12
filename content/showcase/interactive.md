@@ -11,7 +11,7 @@ draft: false
 
 Die Basis hinter dem Ansatz stellt [Koohbanani et al.](https://arxiv.org/pdf/2005.14511) dar. Hierfür werden sogenannte **Inclusion Maps** und **Exclusion Maps** als Leitlinien genutzt, um präzise und effiziente Segmentierungen zu erzeugen – und das mit minimalem Benutzereingriff.  
 
-![Überblick der Methode](images/interactive-maps.png)  
+![Überblick der Methode](https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/images/interactive-maps.png)  
 
 ---
 

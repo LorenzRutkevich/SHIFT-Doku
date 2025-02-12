@@ -7,7 +7,7 @@ date: 2024-11-06
 draft: false
 ---
 
-![Das ESRUT-Net](images/Eff-ResSepNet.drawio.png)  
+![Das ESRUT-Net](https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/images/Eff-ResSepNet.drawio.png)  
 
 ### Architektur
 

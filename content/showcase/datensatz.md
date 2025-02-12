@@ -11,7 +11,7 @@ draft: false
 
 Der für das Training der interaktiven Methode von SHIFT erstellte Datensatz ist eine Zusammenstellung öffentlich zugänglicher Datensätze aus Veröffentlichungen und Challenges. Alle enthaltenen Datensätze stammen aus ethisch vertretbaren Quellen und zeichnen sich durch hohe Qualität und Diversität aus. Zu den Bestandteilen dieses Datensatzes zählen beispielsweise [MoNuSeg](https://ieeexplore.ieee.org/document/8880654) und der [PanNuke](https://arxiv.org/pdf/2003.10778v7) Datensatz, wobei der Großteil des Materials aus menschlichen Proben unterschiedlichster Organe besteht. Überlappende Bilder aus verschiedenen Datensätzen wurden entfernt, um Redundanzen zu vermeiden.
 
-![Bild und korrespondierende Maske im MoNuseg-Datensatz](images/MoNuSeg.png)  
+![Bild und korrespondierende Maske im MoNuseg-Datensatz](https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/images/MoNuSeg.png)  
 
 ### Vorbereitung
 
@@ -19,4 +19,4 @@ Für die automatische Generierung von Trainings-Batches für die interaktive Met
 
 Die Teilgröße jedes Bildes beträgt 128x128 Pixel. Um den Datensatz weiter zu erweitern, wurden größere Bilder in Teilbilder dieser Größe unterteilt. So entstand ein Datensatz mit insgesamt 56.130 Trainingsbildern und zugehörigen Masken sowie 9.905 Testbildern mit entsprechenden Masken.
 
-![Train/Test-Aufteilung](images/data_chart.png)  
+![Train/Test-Aufteilung](https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/images/data_chart.png)  

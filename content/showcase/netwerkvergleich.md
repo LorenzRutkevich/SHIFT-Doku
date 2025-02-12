@@ -18,4 +18,4 @@ Das Eff-ResSepUTransNet erzielt hervorragende Ergebnisse in der semantischen Seg
 
 In dem unten stehenden Graphen sind ausgewählte Modelle dargestellt, die den aktuellen Stand der Technik sowie ihre Basisarchitekturen repräsentieren. Die Modelle von SHIFT schneiden sowohl hinsichtlich der Parameteranzahl als auch der Metriken unter gleichen Bedingungen am besten ab. Weitere Tests deuten darauf hin, dass das Eff-ResSepUTransNet das Potenzial hat, in weiteren Benchmarks eine Spitzenposition einzunehmen.
 
-![Modellleistung](images/model_performance.png)  
+![Modellleistung](https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/images/model_performance.png)  

@@ -7,13 +7,13 @@ date: 2024-11-06
 draft: false
 ---
 
-![Das Training im Überblick](images/uncertainty.png)  
+![Das Training im Überblick](https://github.com/LorenzRutkevich/SHIFT-Doku/blob/images/images/uncertainty.png)  
 
 ### Funktionsweise des Unsicherheitsmodells
 
 Um den Nutzern eine präzisere und schnellere Analyse zu ermöglichen, habe ich ein neues Verfahren entwickelt, das neben einer herkömmlichen Segmentationsmaske auch eine Unsicherheitsmaske ausgibt. Diese Maske hebt alle Bereiche hervor, in denen sich das Modell bezüglich der Segmentierung unsicher ist. Dafür wurde eine Variante des Eff-ResSepUTransNet mit mehreren Ausgabeköpfen entwickelt. Zusätzlich entstand ein Netzwerk, das als Ausgabeschicht ein weiteres Netzwerk verwendet und somit ein "zwei-in-eins-Netzwerk" bildet. Dieses Modell generiert sowohl eine herkömmliche Segmentationsmaske als auch eine Unsicherheitsmaske. Für das Training dieser Modelle wurde eine speziell angepasste Loss-Funktion entwickelt, die die präzise Generierung beider Masken sicherstellt.
 
-![Die Schritte zur endgültigen Ausgabe](images/uncertainty-ess.png)
+![Die Schritte zur endgültigen Ausgabe](https://github.com/LorenzRutkevich/SHIFT-Doku/blob/images/images/uncertainty-ess.png)
 
 ## Erstellung der Maske
 
