@@ -7,7 +7,7 @@ toc: false
 
 Lernen Sie, wie SHIFT durch interaktive Mensch-Maschine-Interaktion und innovative KI-Lösungen neue Maßstäbe setzt. Meine Lösung integriert das Feedback der Nutzer direkt in den Lernprozess – für präzisere Ergebnisse und höhere Flexibilität.
 
-## Das wichtigste auf einen Blick
+## Die Bestandteile von SHIFT
 
 {{< cards >}}
   {{< card
@@ -17,16 +17,39 @@ Lernen Sie, wie SHIFT durch interaktive Mensch-Maschine-Interaktion und innovati
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
     {{< card
+        link="/showcase/network"
+        title="Das SHIFT-Netzwerk"
+        image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Network_cover.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+  {{< card
         link="/showcase/uncertainty"
         title="Informationen zur Unsicherheit"
         image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Uncertainty_cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
-  {{< card
-        link="/showcase/"
-        title="Dokumentation"
-        icon="book-open"
-  >}}
 {{< /cards >}}
 
+## Experimente
 
+{{< cards >}}
+  {{< card
+        link="/showcase/ablation"
+        title="Ablation von SHIFT"
+        image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Ablation_Cover.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+  {{< card
+        link="/showcase/datensatz"
+        title="Informationen zum Datensatz"
+        image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Datensatz_cover.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+  {{< card
+        link="/showcase/uncertainty"
+        title="Informationen zur Unsicherheit"
+        image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Uncertainty_cover.png"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+{{< /cards >}}
+```
