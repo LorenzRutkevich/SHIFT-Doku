@@ -18,9 +18,9 @@ markup:
 
 menu:
   main:
-    - name: Überblick
+    - name: Showcase
       pageRef: /showcase
-      weight: 1
+      weight: 2
     - name: Über mich ↗
       url: "https://lorenz-rutkevich.info/"
       weight: 3
@@ -41,19 +41,17 @@ menu:
 
 params:
   theme:
-    default: dark
-    displayToggle: false
+    default: system
+    displayToggle: true
+
   navbar:
-    displayTitle: true
-    displayLogo: true
-    logo:
-      path: images/logo.svg
-      dark: images/logo.svg
+    displayTitle: false
+    displayLogo: false
 
   footer:
     displayCopyright: false
     displayPoweredBy: false
 
   editURL:
-    enable: true
-    base: "https://github.com/LorenzRutkevich/SHIFT-Doku"
+    enable: false
+    base: "https://github.com/jonaspleyer/cellular_raza/edit/"
