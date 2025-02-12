@@ -48,7 +48,7 @@ params:
     displayLogo: true
     logo:
       path: images/logo.svg
-      dark: images/logo-dark.svg
+      dark: images/logo.svg
 
   footer:
     displayCopyright: false
