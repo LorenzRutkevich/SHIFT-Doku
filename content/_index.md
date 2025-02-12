@@ -52,4 +52,3 @@ Lernen Sie, wie SHIFT durch interaktive Mensch-Maschine-Interaktion und innovati
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 {{< /cards >}}
-```
