@@ -4,7 +4,7 @@ title: SHIFT
 # import hextra as module
 module:
   imports:
-  - path: https://lorenzrutkevich.github.io/SHIFT-Doku/
+  - path: github.com/imfing/hextra
 
 markup:
   # allow raw html
