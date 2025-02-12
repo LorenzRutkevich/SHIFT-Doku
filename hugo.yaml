@@ -21,7 +21,7 @@ menu:
     - name: Überblick
       pageRef: /showcase
       weight: 1
-    - name: Website ↗
+    - name: Über mich ↗
       url: "https://lorenz-rutkevich.info/"
       weight: 3
     - name: Search
