@@ -11,19 +11,19 @@ Lernen Sie, wie SHIFT durch interaktive Mensch-Maschine-Interaktion und innovati
 
 {{< cards >}}
   {{< card
-        link="SHIFT-Doku/showcase/interactive"
+        link="/showcase/interactive"
         title="Informationen zur Interaktiven Segmentierung"
         image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Interactive_cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
     {{< card
-        link="SHIFT-Doku/showcase/network"
+        link="/showcase/network"
         title="Das SHIFT-Netzwerk"
         image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Network_cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
   {{< card
-        link="SHIFT-Doku/showcase/netzwerkvergleich"
+        link="/showcase/netzwerkvergleich"
         title="Vergleich von Netzwerken"
         image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Network_comp_cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
@@ -34,19 +34,19 @@ Lernen Sie, wie SHIFT durch interaktive Mensch-Maschine-Interaktion und innovati
 
 {{< cards >}}
   {{< card
-        link="SHIFT-Doku/showcase/ablation"
+        link="/showcase/ablation"
         title="Ablation von SHIFT"
         image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Ablation_Cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
   {{< card
-        link="SHIFT-Doku/showcase/datensatz"
+        link="/showcase/datensatz"
         title="Informationen zum Datensatz"
         image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Datensatz_cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
   {{< card
-        link="SHIFT-Doku/showcase/uncertainty"
+        link="/showcase/uncertainty"
         title="Informationen zur Unsicherheit"
         image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Uncertainty_cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
