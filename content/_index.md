@@ -11,7 +11,7 @@ Lernen Sie, wie SHIFT durch interaktive Mensch-Maschine-Interaktion und innovati
 
 {{< cards >}}
   {{< card
-        link="/showcase/interactive/"
+        link="/showcase/interactive"
         title="Informationen zur Interaktiven Segmentierung"
         image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Interactive_cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
