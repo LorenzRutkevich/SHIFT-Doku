@@ -25,7 +25,7 @@ layout: wide
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
   {{< card
-        link="netzwerkvergleich"
+        link="netwerkvergleich"
         title="Vergleich von Netzwerken"
         image="https://raw.githubusercontent.com/LorenzRutkevich/SHIFT-Doku/refs/heads/images/Network_comp_cover.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
