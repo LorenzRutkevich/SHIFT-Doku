@@ -47,6 +47,11 @@ params:
   navbar:
     displayTitle: false
     displayLogo: false
+    logo:
+      path: logos/logo.svg
+      dark: logos/logo-dark.svg
+      width: wide
+
 
   footer:
     displayCopyright: false
