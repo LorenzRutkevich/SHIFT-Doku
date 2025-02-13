@@ -41,15 +41,15 @@ menu:
 
 params:
   theme:
-    default: system
-    displayToggle: true
+    default: dark
+    displayToggle: false
 
   navbar:
     displayTitle: false
     displayLogo: false
     logo:
-      path: logos/logo.svg
-      dark: logos/logo-dark.svg
+      path: images/logo.svg
+      dark: images/logo-dark.svg
       width: wide
 
 
