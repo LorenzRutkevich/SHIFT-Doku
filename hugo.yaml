@@ -58,5 +58,5 @@ params:
     displayPoweredBy: false
 
   editURL:
-    enable: false
-    base: "https://github.com/jonaspleyer/cellular_raza/edit/"
+    enable: true
+    base: "https://lorenzrutkevich.github.io/SHIFT-Doku"
